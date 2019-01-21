@@ -2857,8 +2857,6 @@ a.c-member_slug--mention, a.c-member_slug--mention:hover { background-color: #ff
 
 .sidebar_menu_list_item { border: 0; color: #e6e6e6; }
 
-.sidebar_menu_list_item.is_active { background-color: #000; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
-
 .sidebar_menu_list_item:not(.is_active):hover { background-color: #363636; }
 
 .jumbomoji_pref_disabled { color: #949494; }
@@ -3785,8 +3783,6 @@ a.splash_interactive__window_link { color: #e6e6e6; }
 #page .media_list_subtitle { color: #949494; }
 
 #page .sidebar_menu_list_item { color: #e6e6e6; }
-
-#page .sidebar_menu_list_item.is_active { background-color: #302f33; border-color: #302f33; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
 
 #page .sidebar_menu_list_item.is_active a { color: #e6e6e6; }
 
